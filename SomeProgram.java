@@ -5,7 +5,7 @@ public class SomeProgram {
     }
 
 	public void manageTheRockets() {
-    // TODO to kiedys zrobie
+    // TODO to kiedyslll zrobie
 	}
 }
 
